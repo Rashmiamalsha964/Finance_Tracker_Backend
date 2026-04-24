@@ -1,4 +1,4 @@
-# Personal Finance Dashboard
+# Personal Finance Tracker Backend
 
 A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) that helps users track income, manage expenses, and monitor budget limits.
 
@@ -10,7 +10,7 @@ Before you begin, ensure you have the following installed:
 
 ##  Installing Dependencies
 
-### Clone the repository and install the dependencies for thebackend.
+### Clone the repository and install the dependencies for the backend.
 
 * git clone https://github.com/Rashmiamalsha964/Finance_Tracker_Backend.git
 
